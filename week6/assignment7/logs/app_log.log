@@ -1,0 +1,8 @@
+"Severity","ThreadID","Date","Time","Context","Application","Message"
+"INFO","http-nio-8888-exec-2","02/20/2026","11:31:45","http://localhost:8888","Assignment7App","application started at {ts '2026-02-20 11:31:45'}"
+"INFO","ControllerThread:2513","02/20/2026","14:17:20","http://localhost:8888","Assignment7App","application ended at {ts '2026-02-20 14:17:20'}"
+"INFO","http-nio-8888-exec-7","02/20/2026","15:19:42","http://localhost:8888","Assignment7App","application started at {ts '2026-02-20 15:19:42'}"
+"INFO","http-nio-8888-exec-1","02/27/2026","11:12:31","http://localhost:8888","Assignment7App","application started at {ts '2026-02-27 11:12:31'}"
+"INFO","ControllerThread:1276","02/27/2026","12:13:11","http://localhost:8888","Assignment7App","application ended at {ts '2026-02-27 12:13:11'}"
+"INFO","http-nio-8888-exec-1","03/03/2026","10:44:04","http://localhost:8888","Assignment7App","application started at {ts '2026-03-03 10:44:04'}"
+"INFO","ControllerThread:2713","03/03/2026","14:55:47","http://localhost:8888","Assignment7App","application ended at {ts '2026-03-03 14:55:47'}"
